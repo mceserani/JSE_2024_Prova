@@ -1,0 +1,22 @@
+{
+  "name": "jse_2024_prova",
+  "version": "1.0.0",
+  "description": "Prova node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mceserani/JSE_2024_Prova.git"
+  },
+  "author": "Matteo Ceserani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mceserani/JSE_2024_Prova/issues"
+  },
+  "homepage": "https://github.com/mceserani/JSE_2024_Prova#readme",
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  }
+}
